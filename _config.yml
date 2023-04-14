@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nima Shahbazi"
   avatar           : "profile.png"
-  bio              : "PhD Student in Computer Science Department at The University of Illinois Chicago"
+  bio              : "Ph.D. Student at The University of Illinois Chicago"
   location         : "Chicago, IL"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/neemashahbazi"
+  github           : "neemashahbazi"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/nimashahbazi90"
+  twitter          : "nimashahbazi90"
   vine             :
   weibo            :
   xing             :
