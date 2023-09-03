@@ -15,8 +15,8 @@ My primary research focus revolves around Algorithmic Fairness and Responsible A
 
 I am always enthusiastic about the prospect of collaborating with fellow researchers, and I am more than willing to assist with any academic or research-related inquiries. Please don't hesitate to reach out—I'm here to help!
 
-# Publications
-## 2024
+## Publications
+# 2024
 
 - **Nima Shahbazi**, Jin Wang, Zhengjie Miao and Nikita Bhutani. “Fairness-aware Data Preparation for
 Entity Matching”. Under review in VLDB 2024.
@@ -24,7 +24,7 @@ Entity Matching”. Under review in VLDB 2024.
 - **Nima Shahbazi**, Stavros Sintos and Abolfazl Asudeh. “FairHash: A Fair and Memory/Time-efficient Hash
 Map”. Under review in SODA 2024.
 
-## 2023
+# 2023
 
 - **Nima Shahbazi** and Abolfazl Asudeh. “Reliability Evaluation of Individual Predictions: A Data-centric
 Approach”. To appear in VLDB Journal.
@@ -42,7 +42,7 @@ Survey on Identification and Resolution Techniques”, in ACM Computing Surveys 
 for Equitable Allocation of City Resources”. The International Workshop of Algorithmic Fairness in Artificial
 intelligence, Machine learning and Decision making (AFair-AMLD) 2023.
 
-## 2021
+# 2021
 
 - Abolfazl Asudeh, **Nima Shahbazi**, Zhongjun Jin and H.V. Jagadish. 2021 “Identifying Insufficient Data
 Coverage for Ordinal Continuous-Valued Attributes”, in Proceedings of The 2021 International Conference
