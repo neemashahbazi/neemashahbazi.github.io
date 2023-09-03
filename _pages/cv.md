@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/cv.pdf
+permalink: https://neemashahbazi.github.io/files/cv.pdf
 author_profile: true
 redirect_from:
   - /resume
