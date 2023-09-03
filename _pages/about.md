@@ -19,32 +19,32 @@ I am always enthusiastic about the prospect of collaborating with fellow researc
 
 # 2023
 
-- Nima Shahbazi, Jin Wang, Zhengjie Miao and Nikita Bhutani. “Fairness-aware Data Preparation for
+- **Nima Shahbazi**, Jin Wang, Zhengjie Miao and Nikita Bhutani. “Fairness-aware Data Preparation for
 Entity Matching”. Under review in VLDB 2024.
 
-- Nima Shahbazi, Stavros Sintos and Abolfazl Asudeh. “FairHash: A Fair and Memory/Time-efficient Hash
+- **Nima Shahbazi**, Stavros Sintos and Abolfazl Asudeh. “FairHash: A Fair and Memory/Time-efficient Hash
 Map”. Under review in SODA 2024.
 
-- Melika Mousavi, Nima Shahbazi and Abolfazl Asudeh “Crowdsourcing Representation Bias Identification
+- Melika Mousavi, **Nima Shahbazi** and Abolfazl Asudeh “Crowdsourcing Representation Bias Identification
 in form of Data Coverage in Image Data Sets”, in EDBT 2024.
 
-- Nima Shahbazi, Nikola Danevski, Fatemeh Nargesian, Abolfazl Asudeh and Divesh Srivastava “Through
+- **Nima Shahbazi**, Nikola Danevski, Fatemeh Nargesian, Abolfazl Asudeh and Divesh Srivastava “Through
 the Fairness Lens: Experimental Analysis and Evaluation of Entity Matching”, in VLDB 2023
 
-- Nima Shahbazi, Yin Lin, Abolfazl Asudeh and H.V. Jagadish. 2023 “Representation Bias in Data: A
+- **Nima Shahbazi**, Yin Lin, Abolfazl Asudeh and H.V. Jagadish. 2023 “Representation Bias in Data: A
 Survey on Identification and Resolution Techniques”, in ACM Computing Surveys (CSUR).
 
-- Khanh Duy Nguyen, Nima Shahbazi and Abolfazl Asudeh “PopSim: Individual-level Population Simulation
+- Khanh Duy Nguyen, **Nima Shahbazi** and Abolfazl Asudeh “PopSim: Individual-level Population Simulation
 for Equitable Allocation of City Resources”. The International Workshop of Algorithmic Fairness in Artificial
 intelligence, Machine learning and Decision making (AFair-AMLD) 2023.
 
 # 2021
 
-- Abolfazl Asudeh, Nima Shahbazi, Zhongjun Jin and H.V. Jagadish. 2021 “Identifying Insufficient Data
+- Abolfazl Asudeh, **Nima Shahbazi**, Zhongjun Jin and H.V. Jagadish. 2021 “Identifying Insufficient Data
 Coverage for Ordinal Continuous-Valued Attributes”, in Proceedings of The 2021 International Conference
 on Management of Data (SIGMOD).
 
-- Hantian Zhang, Nima Shahbazi, Xu Chu and Abolfazl Asudeh. 2021 “FairRover: Explorative Model
+- Hantian Zhang, **Nima Shahbazi**, Xu Chu and Abolfazl Asudeh. 2021 “FairRover: Explorative Model
 Building for Fair and Responsible Machine Learning”, in Proceedings of The Fifth International Workshop
 on Data Management for End-to-End Machine Learning (DEEM).
 
