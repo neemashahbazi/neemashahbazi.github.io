@@ -24,13 +24,13 @@ Entity Matching”. Under review in VLDB 2024.
 - **Nima Shahbazi**, Stavros Sintos and Abolfazl Asudeh. “FairHash: A Fair and Memory/Time-efficient Hash
 Map”. Under review in SODA 2024.
 
+- Melika Mousavi, **Nima Shahbazi** and Abolfazl Asudeh “Crowdsourcing Representation Bias Identification
+in form of Data Coverage in Image Data Sets”, in EDBT 2024.
+
 # 2023
 
 - **Nima Shahbazi** and Abolfazl Asudeh. “Reliability Evaluation of Individual Predictions: A Data-centric
 Approach”. To appear in VLDB Journal.
-
-- Melika Mousavi, **Nima Shahbazi** and Abolfazl Asudeh “Crowdsourcing Representation Bias Identification
-in form of Data Coverage in Image Data Sets”, in EDBT 2024.
 
 - **Nima Shahbazi**, Nikola Danevski, Fatemeh Nargesian, Abolfazl Asudeh and Divesh Srivastava “Through
 the Fairness Lens: Experimental Analysis and Evaluation of Entity Matching”, in VLDB 2023
