@@ -9,14 +9,21 @@ redirect_from:
 ---
 
 
-I am currently a fourth-year Ph.D. candidate in the Computer Science Department at the University of Illinois Chicago, under the supervision of [Dr. Abol Asudeh](https://asudeh.github.io/), which I consider myself incredibly fortunate for. Prior to this, I completed my MSc at the University of Texas at Dallas and earned my BSc from the University of Isfahan. In the Summer of 2023, I was a Research Scientist Intern at [Megagon Labs](https://megagon.ai/).
+I am currently a fourth-year Ph.D. candidate in the Computer Science Department at the University of Illinois Chicago, under the supervision of [Dr. Abol Asudeh](https://asudeh.github.io/), which I consider myself incredibly fortunate for. Prior to this, I completed my MSc at the University of Texas at Dallas and earned my BSc from the University of Isfahan.
 
 My primary research focus revolves around Algorithmic Fairness and Responsible AI with a strong emphasis on data-centric approaches. In this domain, I am dedicated to designing algorithms that are efficient, effective, and scalable throughout the entire data analysis pipeline. Additionally, I am also interested in various aspects of data management, including Data Integration and Query Processing, and I am always eager to explore new and intriguing areas of research.
 
 I am always enthusiastic about the prospect of collaborating with fellow researchers, and I am more than willing to assist with any academic or research-related inquiries. Please don't hesitate to reach out—I'm here to help!
 
+## Experiences
+### Summer 2023
+- Research Scientist Intern at [Megagon Labs](https://megagon.ai/)
+  
+### 2020-Present
+- Research Assistant at [InDex Lab](https://www.cs.uic.edu/~indexlab/) at the University of Illinois Chicago
+
 ## Publications
-# 2024
+### 2024
 
 - **Nima Shahbazi**, Jin Wang, Zhengjie Miao and Nikita Bhutani. “Fairness-aware Data Preparation for
 Entity Matching”. Under review in VLDB 2024.
@@ -27,7 +34,7 @@ Map”. Under review in SODA 2024.
 - Melika Mousavi, **Nima Shahbazi** and Abolfazl Asudeh “Crowdsourcing Representation Bias Identification
 in form of Data Coverage in Image Data Sets”, in EDBT 2024.
 
-# 2023
+### 2023
 
 - **Nima Shahbazi** and Abolfazl Asudeh. “Reliability Evaluation of Individual Predictions: A Data-centric
 Approach”. To appear in VLDB Journal.
@@ -42,7 +49,7 @@ Survey on Identification and Resolution Techniques”, in ACM Computing Surveys 
 for Equitable Allocation of City Resources”. The International Workshop of Algorithmic Fairness in Artificial
 intelligence, Machine learning and Decision making (AFair-AMLD) 2023.
 
-# 2021
+### 2021
 
 - Abolfazl Asudeh, **Nima Shahbazi**, Zhongjun Jin and H.V. Jagadish. 2021 “Identifying Insufficient Data
 Coverage for Ordinal Continuous-Valued Attributes”, in Proceedings of The 2021 International Conference
