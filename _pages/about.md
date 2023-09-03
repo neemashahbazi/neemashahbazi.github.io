@@ -16,7 +16,6 @@ My primary research focus revolves around Algorithmic Fairness and Responsible A
 I am always enthusiastic about the prospect of collaborating with fellow researchers, and I am more than willing to assist with any academic or research-related inquiries. Please don't hesitate to reach out—I'm here to help!
 
 # Publications
-
 ## 2024
 
 - **Nima Shahbazi**, Jin Wang, Zhengjie Miao and Nikita Bhutani. “Fairness-aware Data Preparation for
