@@ -16,10 +16,10 @@ My primary research focus revolves around Algorithmic Fairness and Responsible A
 I am always enthusiastic about the prospect of collaborating with fellow researchers, and I am more than willing to assist with any academic or research-related inquiries. Please don't hesitate to reach out—I'm here to help!
 
 ## Experiences
-### Summer 2023
+### May-August 2023
 - Research Scientist Intern at [Megagon Labs](https://megagon.ai/)
   
-### 2020-Present
+### August 2020-Present
 - Research Assistant at [InDex Lab](https://www.cs.uic.edu/~indexlab/) at the University of Illinois Chicago
 
 ## Publications
