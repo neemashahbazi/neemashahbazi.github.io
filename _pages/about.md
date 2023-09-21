@@ -59,3 +59,8 @@ on Management of Data (SIGMOD).
 Building for Fair and Responsible Machine Learning”, in Proceedings of The Fifth International Workshop
 on Data Management for End-to-End Machine Learning (DEEM).
 
+## Professional Services
+- Reviewer for *Information Systems* Journal
+- External Reviewer for *ICDE'23*
+- Availability/Reproducibility Reviewer for *SIGMOD'23, '24*
+
