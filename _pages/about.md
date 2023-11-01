@@ -29,7 +29,7 @@ I am always enthusiastic about the prospect of collaborating with fellow researc
 Entity Matching”. Under review in VLDB 2024.
 
 - **Nima Shahbazi**, Stavros Sintos and Abolfazl Asudeh. “FairHash: A Fair and Memory/Time-efficient Hash
-Map”. Under review in SODA 2024.
+Map”. Under review in SIGMOD 2024.
 
 - Melika Mousavi, **Nima Shahbazi** and Abolfazl Asudeh “Crowdsourcing Representation Bias Identification
 in form of Data Coverage in Image Data Sets”, in EDBT 2024.
