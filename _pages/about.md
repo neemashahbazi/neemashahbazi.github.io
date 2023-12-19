@@ -27,16 +27,14 @@ I am always enthusiastic about the prospect of collaborating with fellow researc
 
 <!---
 - Sana Ebrahimi, **Nima Shahbazi** and Abolfazl Asudeh “REALM: Reliability and Equity through Aggregation
-in Large Language Models”, in NAACL 2024.
+in Large Language Models”, Under review in NAACL 2024.
 -->
 
 - **Nima Shahbazi**, Jin Wang, Zhengjie Miao and Nikita Bhutani. “Fairness-aware Data Preparation for
 Entity Matching”. Under review in ICDE 2024.
 
-<!---
 - **Nima Shahbazi**, Stavros Sintos and Abolfazl Asudeh. “FairHash: A Fair and Memory/Time-efficient Hash
 Map”. Under revision in SIGMOD 2024.
--->
 
 - Melika Mousavi, **Nima Shahbazi** and Abolfazl Asudeh “Crowdsourcing Representation Bias Identification
 in form of Data Coverage in Image Data Sets”, in EDBT 2024.
