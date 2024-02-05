@@ -30,7 +30,7 @@ I am always enthusiastic about the prospect of collaborating with fellow researc
 in Large Language Models”, Under revision in NAACL 2024.
 -->
 
-- **Nima Shahbazi**, Mahdi Erfanian and Abolfazl Asudeh “Coverage-based Data-centric Approaches for Responsible and Trustworthy AI”, in IEEE Data Engineering Bulletin March 2024.
+- **Nima Shahbazi**, Mahdi Erfanian and Abolfazl Asudeh “Coverage-based Data-centric Approaches for Responsible and Trustworthy AI”, in IEEE Data Engineering Bulletin March 2024 (Invited paper).
 
 - **Nima Shahbazi**, Jin Wang, Zhengjie Miao and Nikita Bhutani. “Fairness-aware Data Preparation for
 Entity Matching”. Under review in ICDE 2024.
