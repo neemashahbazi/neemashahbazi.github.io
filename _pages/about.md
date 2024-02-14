@@ -30,21 +30,21 @@ I am always enthusiastic about the prospect of collaborating with fellow researc
 in Large Language Models”, Under revision in NAACL 2024.
 -->
 
-- **Nima Shahbazi**, Mahdi Erfanian and Abolfazl Asudeh “Coverage-based Data-centric Approaches for Responsible and Trustworthy AI”, in IEEE Data Engineering Bulletin March 2024 (Invited paper).
-
 - **Nima Shahbazi**, Jin Wang, Zhengjie Miao and Nikita Bhutani. “Fairness-aware Data Preparation for
 Entity Matching”. Under review in ICDE 2024.
 
 - **Nima Shahbazi**, Stavros Sintos and Abolfazl Asudeh. “FairHash: A Fair and Memory/Time-efficient Hash
 Map”. Under revision in SIGMOD 2024.
 
+- **Nima Shahbazi** and Abolfazl Asudeh. “Reliability Evaluation of Individual Predictions: A Data-centric
+Approach”. Under revision in VLDB Journal.
+
+- **Nima Shahbazi**, Mahdi Erfanian and Abolfazl Asudeh “Coverage-based Data-centric Approaches for Responsible and Trustworthy AI”, in IEEE Data Engineering Bulletin March 2024 (Invited paper).
+
 - Melika Mousavi, **Nima Shahbazi** and Abolfazl Asudeh “Crowdsourcing Representation Bias Identification
 in form of Data Coverage in Image Data Sets”, in EDBT 2024.
 
 ### 2023
-
-- **Nima Shahbazi** and Abolfazl Asudeh. “Reliability Evaluation of Individual Predictions: A Data-centric
-Approach”. To appear in VLDB Journal.
 
 - **Nima Shahbazi**, Nikola Danevski, Fatemeh Nargesian, Abolfazl Asudeh and Divesh Srivastava “Through
 the Fairness Lens: Experimental Analysis and Evaluation of Entity Matching”, in VLDB 2023
