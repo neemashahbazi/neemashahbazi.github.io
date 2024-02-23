@@ -34,7 +34,7 @@ in Large Language Models”, Under revision in NAACL 2024.
 Entity Matching”. Under review in ICDE 2024.
 
 - **Nima Shahbazi**, Stavros Sintos and Abolfazl Asudeh. “FairHash: A Fair and Memory/Time-efficient Hash
-Map”. Under revision in SIGMOD 2024.
+Map”. SIGMOD 2024.
 
 - **Nima Shahbazi** and Abolfazl Asudeh. “Reliability Evaluation of Individual Predictions: A Data-centric
 Approach”. Under revision in VLDB Journal.
