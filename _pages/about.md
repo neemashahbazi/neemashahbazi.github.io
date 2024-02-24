@@ -34,10 +34,10 @@ in Large Language Models”, Under revision in NAACL 2024.
 Entity Matching”. Under revision in ICDE 2024.
 
 - **Nima Shahbazi**, Stavros Sintos and Abolfazl Asudeh. “FairHash: A Fair and Memory/Time-efficient Hash
-Map”. SIGMOD 2024.
+Map” in SIGMOD 2024.
 
 - **Nima Shahbazi** and Abolfazl Asudeh. “Reliability Evaluation of Individual Predictions: A Data-centric
-Approach”. Under revision in VLDB Journal.
+Approach”, in VLDB Journal.
 
 - **Nima Shahbazi**, Mahdi Erfanian and Abolfazl Asudeh “Coverage-based Data-centric Approaches for Responsible and Trustworthy AI”, in IEEE Data Engineering Bulletin March 2024 (Invited paper).
 
