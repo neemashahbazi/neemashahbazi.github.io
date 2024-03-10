@@ -31,7 +31,7 @@ in Large Language Models”, Under revision in NAACL 2024.
 -->
 
 - **Nima Shahbazi**, Jin Wang, Zhengjie Miao and Nikita Bhutani. “Fairness-aware Data Preparation for
-Entity Matching”. Under revision in ICDE 2024.
+Entity Matching”, in ICDE 2024.
 
 - **Nima Shahbazi**, Stavros Sintos and Abolfazl Asudeh. “FairHash: A Fair and Memory/Time-efficient Hash
 Map” in SIGMOD 2024.
