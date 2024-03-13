@@ -25,10 +25,8 @@ I am always enthusiastic about the prospect of collaborating with fellow researc
 ## Publications
 ### 2024
 
-<!---
 - Sana Ebrahimi, **Nima Shahbazi** and Abolfazl Asudeh “REALM: Reliability and Equity through Aggregation
-in Large Language Models”, Under revision in NAACL 2024.
--->
+in Large Language Models”, in NAACL Findings 2024.
 
 - **Nima Shahbazi**, Jin Wang, Zhengjie Miao and Nikita Bhutani. “Fairness-aware Data Preparation for
 Entity Matching”, in ICDE 2024.
