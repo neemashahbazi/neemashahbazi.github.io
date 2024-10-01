@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a fourth-year Ph.D. candidate in the Computer Science Department at the University of Illinois Chicago, under the supervision of [Dr. Abol Asudeh](https://asudeh.github.io/). Prior to this, I completed my M.Sc. in Computer Science at the University of Texas at Dallas and earned my B.Sc. in Computer Engineering from the University of Isfahan.
+I am currently a fifth-year Ph.D. candidate in the Computer Science Department at the University of Illinois Chicago, under the supervision of [Dr. Abol Asudeh](https://asudeh.github.io/). Prior to this, I completed my M.Sc. in Computer Science at the University of Texas at Dallas and earned my B.Sc. in Computer Engineering from the University of Isfahan.
 
 My primary research focus revolves around Algorithmic Fairness and Responsible AI with a strong emphasis on data-centric approaches. In this domain, I am dedicated to designing algorithms that are efficient, effective, and scalable throughout the entire data analysis pipeline. I also have experience in various aspects of data management research such as Data Integration, Approximate Query Processing, and Ranking. Last, but not least, I am always eager to explore new and intriguing areas of research.
 
@@ -67,6 +67,8 @@ Building for Fair and Responsible Machine Learning”, in Proceedings of The Fif
 on Data Management for End-to-End Machine Learning (DEEM).
 
 ## Professional Services
+- Reviewer for *TKDE* Journal
+- PC Member for *CIKM'24*
 - Reviewer for *Information Systems* Journal
 - External Reviewer for *ICDE'23*
 - Availability/Reproducibility Reviewer for *SIGMOD'23, '24*
