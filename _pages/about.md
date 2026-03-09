@@ -20,7 +20,7 @@ I am always enthusiastic about the prospect of collaborating with fellow researc
 - Research Scientist at [Megagon Labs](https://megagon.ai/)
   
 ### Summer 2025
-- Research Intern at [Microsoft, Gray Systems Lab](https://www.microsoft.com/en-us/research/group/gray-systems-lab/)
+- Research Intern at [Gray Systems Lab](https://www.microsoft.com/en-us/research/group/gray-systems-lab/) at Microsoft
   
 ### Summer 2023
 - Research Scientist Intern at [Megagon Labs](https://megagon.ai/)
