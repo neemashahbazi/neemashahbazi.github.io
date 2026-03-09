@@ -34,7 +34,7 @@ I am always enthusiastic about the prospect of collaborating with fellow researc
 
 - **Nima Shahbazi**, Abolfazl Asudeh, Stavros Sintos “Fair Count-Min: Frequency Estimation under Equal Group-wise Approximation Factor”, in SIGMOD 2026.
 
-**Nima Shahbazi**, Aryan Esmailpour, Stavros Sintos ”Weighted Set Multi-Cover on Bounded Universe and Applications in Package Recommendations”, in SIGMOD 2026.
+- **Nima Shahbazi**, Aryan Esmailpour, Stavros Sintos ”Weighted Set Multi-Cover on Bounded Universe and Applications in Package Recommendations”, in SIGMOD 2026.
 
 ### 2024
 
