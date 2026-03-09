@@ -8,21 +8,34 @@ redirect_from:
   - /about.html
 ---
 
+I am a Research Scientist at Megagon Labs, working at the intersection of data management and AI. I earned my Ph.D. in Computer Science from the University of Illinois Chicago, where I was advised by [Dr. Abol Asudeh](https://asudeh.github.io/). My doctoral research focused on algorithmic fairness and responsible AI, with a strong emphasis on data-centric approaches for which I received UIC College of Engineering Exceptional Research Promise Award. 
 
-I am currently a fifth-year Ph.D. candidate in the Computer Science Department at the University of Illinois Chicago, under the supervision of [Dr. Abol Asudeh](https://asudeh.github.io/). Prior to this, I completed my M.Sc. in Computer Science at the University of Texas at Dallas and earned my B.Sc. in Computer Engineering from the University of Isfahan.
-
-My primary research focus revolves around Algorithmic Fairness and Responsible AI with a strong emphasis on data-centric approaches. In this domain, I am dedicated to designing algorithms that are efficient, effective, and scalable throughout the entire data analysis pipeline. I also have experience in various aspects of data management research such as Data Integration, Approximate Query Processing, and Ranking. Last, but not least, I am always eager to explore new and intriguing areas of research.
+Prior to my Ph.D., I completed my M.Sc. at the University of Texas at Dallas and earned my B.E. from the University of Isfahan. I was a Research Intern at Microsoft’s Gray Systems Lab in Summer 2025, and previously a Research Scientist Intern at Megagon Labs in Summer 2023.
 
 I am always enthusiastic about the prospect of collaborating with fellow researchers, and I am more than willing to assist with any academic or research-related inquiries. Please don't hesitate to reach out—I'm here to help!
 
 ## Experiences
+
+### November 2025-Present
+- Research Scientist at [Megagon Labs](https://megagon.ai/)
+  
+### Summer 2025
+- Research Intern at [Microsoft, Gray Systems Lab](https://www.microsoft.com/en-us/research/group/gray-systems-lab/)
+  
 ### Summer 2023
 - Research Scientist Intern at [Megagon Labs](https://megagon.ai/)
   
-### 2020-Present
+### 2020-2025
 - Research Assistant at [InDex Lab](https://www.cs.uic.edu/~indexlab/) at the University of Illinois Chicago
 
 ## Publications
+
+### 2026
+
+- **Nima Shahbazi**, Abolfazl Asudeh, Stavros Sintos “Fair Count-Min: Frequency Estimation under Equal Group-wise Approximation Factor”, in SIGMOD 2026.
+
+**Nima Shahbazi**, Aryan Esmailpour, Stavros Sintos ”Weighted Set Multi-Cover on Bounded Universe and Applications in Package Recommendations”, in SIGMOD 2026.
+
 ### 2024
 
 - **Nima Shahbazi**, Mahdi Erfanian, Abolfazl Asudeh, Fatemeh Nargesian and Divesh Srivastava “FairEM360: A Suite for Responsible Entity Matching”, in VLDB 2024.
@@ -68,8 +81,9 @@ on Data Management for End-to-End Machine Learning (DEEM).
 
 ## Professional Services
 - Reviewer for *TKDE* Journal
-- PC Member for *CIKM'24*
+- Reviewer for *TKDD* Journal
+- PC Member for *CIKM'24, '25*
 - Reviewer for *Information Systems* Journal
-- External Reviewer for *ICDE'23*
+- External Reviewer for *ICDE'23, '25*
 - Availability/Reproducibility Reviewer for *SIGMOD'23, '24*
 
